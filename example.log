@@ -1,0 +1,269 @@
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2023 10:58:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2023 10:58:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2023 10:58:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2023 10:58:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2023 10:58:53] "GET /about HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2023 10:58:55] "GET /about HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2023 10:58:55] "GET /about HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Mar/2023 10:58:55] "GET /about HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\gen.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\gen.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\gen.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\gen.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\gen.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\gen.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\gen.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\gen.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\gen.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\gen.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\gen.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\gen.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\gen.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\gen.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\gen.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\gen.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\gen.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\gen.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\gen.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
+INFO:werkzeug: * Detected change in 'C:\\Users\\jbt\\Documents\\Eyal\\flsk_deco\\deco.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-921-676
